@@ -11,6 +11,7 @@ public class TestFeatureTwo {
 	public TestFeatureTwo(int testI, double testD) {
 		this.testI = testI;
 		this.testD = testD;
+		
 	}
 	
 	
