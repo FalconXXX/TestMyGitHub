@@ -15,6 +15,7 @@ public class Test {
 		System.out.println("TEST F7  ");
 		
 		System.out.println("TEST MASTER_2");
+		System.out.println("TEST MASTER_3");
 
 	}
 
