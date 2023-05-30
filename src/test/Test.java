@@ -16,6 +16,7 @@ public class Test {
 		
 		System.out.println("TEST MASTER_2");
 		System.out.println("TEST MASTER_3");
+		System.out.println("TEST MASTER_TEST_Feature10");
 
 	}
 
