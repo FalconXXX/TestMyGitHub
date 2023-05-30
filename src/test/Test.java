@@ -9,7 +9,7 @@ public class Test {
 		System.out.println(" Feature THREE blabla");
 		System.out.println("Commit");
 		System.out.println("Commit FEATURE TWO");
-		System.out.println("Commit FEATURE FOUR");
+	
 
 	}
 
