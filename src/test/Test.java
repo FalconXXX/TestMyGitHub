@@ -11,6 +11,8 @@ public class Test {
 		System.out.println("Commit FEATURE TWO");
 
 		System.out.println("TEST MASTER");
+		
+		System.out.println("TEST F7");
 
 	}
 
